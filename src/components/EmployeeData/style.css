@@ -14,3 +14,13 @@ thead > th {
 Table {
   max-width: 100%;
 }
+
+.pointer:after {
+  content: "";
+  margin-right: 20px;
+}
+
+.pointer:hover:after {
+  content: "🔻";
+  margin-right: 0;
+}
