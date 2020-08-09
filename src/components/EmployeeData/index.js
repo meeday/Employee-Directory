@@ -50,6 +50,7 @@ class EmployeeData extends Component {
   };
 //componentDidMount to set the states when component is mounted
   componentDidMount() {
+    // directory refers to the json file that holds the employee data
     this.setState({ result: directory, original: directory });
   }
 // render method returns the html table calling the methods above
