@@ -1,6 +1,7 @@
+// react and styling imported in
 import React from "react";
 import "./style.css";
-
+// const returns the html of the row passing through employee data using props
 const employees = (props) => {
   return (
     <tbody>
@@ -25,3 +26,4 @@ const employees = (props) => {
 };
 
 export default employees;
+// employees exported
