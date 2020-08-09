@@ -46,6 +46,11 @@
   ## __Tests__
   none
 
+  ## __Links__
+  [Deployed Link](https://employee-directory-meeday.herokuapp.com/)
+  
+  [Repo link](https://github.com/meeday/Employee-Directory)
+
   ## __Questions__
 
   [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com"/meeday)
