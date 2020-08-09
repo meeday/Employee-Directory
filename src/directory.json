@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Niroshan witharana",
+    "image": "https://avatars0.githubusercontent.com/u/43881595?s=400&u=f0ab49844af7b2e72e831a24cd3e9c30f461c3ec&v=4",
+    "title": "front-end developer",
+    "website": "https://niroshanwitharana.github.io/My-Portfolio/",
+    "country": "Sri Lanka",
+    "email": "nrosh_uoc@yahoo.com"
+  },
+  {
+    "id": 2,
+    "name": "Dragos Dragomir",
+    "image": "https://avatars0.githubusercontent.com/u/60710786?s=400&u=3a14cfa6cdafd330c1ecdae564d95d1ff3c42882&v=4",
+    "title": "front-end developer",
+    "website": "https://drg0drg.github.io/About-Me-Portfolio/",
+    "country": "Romania",
+    "email": "dragomir_costin_dragos@yahoo.com"
+  },
+  {
+    "id": 3,
+    "name": "Dan Phillips",
+    "image": "https://avatars3.githubusercontent.com/u/61989740?s=400&u=78e9956e31a2d4046c53753c87d1b91b8faf46a2&v=4",
+    "title": "back-end developer",
+    "website": "https://phillidp1989.github.io/portfolio/",
+    "country": "United Kingdom",
+    "email": "Private"
+  },
+  {
+    "id": 4,
+    "name": "Jacob Houston",
+    "image": "https://avatars3.githubusercontent.com/u/59972622?s=400&u=91b45cf519db3842aaf1f988e681b0fea3d146ac&v=4",
+    "title": "UI designer",
+    "website": "https://goldenaries658.github.io/Portfolio/",
+    "country": "United Kingdom",
+    "email": "jacob.houston658@gmail.com"
+  },
+  {
+    "id": 5,
+    "name": "Joe Dodgson",
+    "image": "https://avatars0.githubusercontent.com/u/50573262?s=400&u=0557a8d43fa5792e76ab6b24cd00c300a65e392c&v=4",
+    "title": "back-end devloper",
+    "website": "https://joedodgson.github.io/Portfolio/",
+    "country": "United Kingdom",
+    "email": "j.dodgson@live.co.uk"
+  },
+  {
+    "id": 6,
+    "name": "Meedaxa Ahmed",
+    "image": "https://avatars1.githubusercontent.com/u/59993824?s=400&u=df7f3c81d86c81d66c4ad231f2451153e281e478&v=4",
+    "title": "Manager",
+    "website": "https://meeday-portfolio.netlify.app/",
+    "country": "Ethiopia",
+    "email": "meedaxa.ahmed@gmail.com"
+  },
+  {
+    "id": 7,
+    "name": "Ben Ashley",
+    "image": "https://avatars2.githubusercontent.com/u/26093813?s=400&u=0572a15fe5ffe5b2144ad484ef54e805eeea311a&v=4",
+    "title": "Project Lead",
+    "website": "https://sol3.me/",
+    "country": "United Kingdom",
+    "email": "Private"
+  },
+  {
+    "id": 8,
+    "name": "Steven Rafferty",
+    "image": "https://avatars1.githubusercontent.com/u/28809905?s=400&u=40723ecb7517ba279f87217c93dfe6c72d8e9eb6&v=4",
+    "title": "Project lead",
+    "website": "https://npmsteven.com/",
+    "country": "United Kingdom",
+    "email": "Private"
+  },
+  {
+    "id": 9,
+    "name": "Mace Windu",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/f/fc/Mace_Windu.jpg/revision/latest?cb=20071230055326",
+    "title": "Jedi Master",
+    "website": "https://starwars.fandom.com/wiki/Mace_Windu",
+    "country": "Haruun Kal",
+    "email": "purpleGuy@theForce.com"
+  },
+  {
+    "id": 10,
+    "name": "Master Yoda",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d6/Yoda_SWSB.png/revision/latest?cb=20150206140125",
+    "title": "Jedi Master",
+    "website": "https://starwars.fandom.com/wiki/Yoda",
+    "country": "Unknown",
+    "email": "greenie998@theforce.com"
+  },
+  {
+    "id": 11,
+    "name": "Luke Skywalker",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/1/15/Luke_Skywalker_Ep_7_SWCT.png/revision/latest?cb=20180731193551",
+    "title": "Rebel",
+    "website": "https://starwars.fandom.com/wiki/Luke_Skywalker",
+    "country": "Tatooine",
+    "email": "Private"
+  },
+  {
+    "id": 12,
+    "name": "Chewbacca",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/4/48/Chewbacca_TLJ.png/revision/latest?cb=20190830144754",
+    "title": "Revolutionary",
+    "website": "https://starwars.fandom.com/wiki/Chewbacca",
+    "country": "Kashyyyk",
+    "email": "grgrgrgr@grgr.com"
+  }
+]
