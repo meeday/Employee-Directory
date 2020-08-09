@@ -1,3 +1,84 @@
+ # **React App Assignment**
+
+  ## Name of Repo: Employee-Directory
+  [![made-with-tech](https://img.shields.io/badge/Made%20with-HTML-1f425f.svg)](https://shields.io/)
+ [![made-with-tech](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://shields.io/)
+ [![made-with-tech](https://img.shields.io/badge/Made%20with-CSS-1f425f.svg)](https://shields.io/)
+ [![made-with-tech](https://img.shields.io/badge/Made%20with-Node-1f425f.svg)](https://shields.io/)
+ [![made-with-tech](https://img.shields.io/badge/Made%20with-Other-1f425f.svg)](https://shields.io/)
+ 
+  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://shields.io/)
+  [![GitHub issues](https://img.shields.io/github/issues/meeday/Employee-Directory.svg)](https://GitHub.com/meeday/Employee-Directory/issues/)
+
+  [![GitHub followers](https://img.shields.io/github/followers/meeday.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/meeday?tab=followers)
+  [![GitHub watchers](https://img.shields.io/github/watchers/meeday/Employee-Directory.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/meeday/Employee-Directory/watchers/)
+  [![GitHub stars](https://img.shields.io/github/stars/meeday/Employee-Directory.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/meeday/Employee-Directory/stargazers/)
+  [![GitHub forks](https://img.shields.io/github/forks/meeday/Employee-Directory.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/meeday/Employee-Directory/network/)
+  ![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
+
+  ## __Description__
+  holds a react app that populates a table with the employee's of the user and renders them as the table is updated using props and components. The user is presented with the full list when the page loads. The user can then filter the list using the search bar . User is able to filter employee by name, title and country. the app uses the react framework.
+  
+  ## __Table of Contents__
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributions](#contributions)
+  * [Tests](#tests)
+  * [Questions](#questions)
+    *   [Github Profile Picture](#githubprofile)
+    *   [Email](#email)
+
+  ## __Installation__
+  the app is deployed on heroku but if you're using it on your local machine run npm start to initialise the app. You might need to run npm i to install packages
+  
+  ## __Usage__
+  the user can manipulate the table in two ways. the first being through using search filter. The user on the other hand can choose to sort the table in ascending or descending order by clicking on the name column name  
+  
+  ## __License__
+  [![License](https://img.shields.io/badge/License-None-Red.svg)](http://shields.io/) 
+  
+  ## __Contributions__
+  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+  - Current Contributors: meeday
+  - fork the repo and do your thing
+  
+  ## __Tests__
+  none
+
+  ## __Questions__
+
+  [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com"/meeday)
+
+ Meedaxa Ahmed:    meedaxa.ahmed@gmail.com  
+ ![alt text](https://avatars3.githubusercontent.com/u/59993824?v=4 "Profile pic")     
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
