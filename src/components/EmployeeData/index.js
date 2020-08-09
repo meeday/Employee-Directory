@@ -72,7 +72,7 @@ class EmployeeData extends Component {
                     this.onToggleClick();
                   }}
                 >
-                  Name<span className="dropdown-toggle"></span>
+                  Name<span className="dropdown-toggle pointer"></span>
                 </th>
                 <th>Title</th>
                 <th>Website</th>
